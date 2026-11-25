@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Keraya — Pack Réparation Hiver",
+  "description": "باك العناية المتكامل للشعر الناشف والخشن ففصل الشتاء — شامبوان بالبروتينات 150ml وماسك الكاكاو وزبدة الشيا 200g مع التوصيل المجاني والدفع عند الاستلام.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
